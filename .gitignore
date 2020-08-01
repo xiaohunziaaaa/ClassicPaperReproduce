@@ -1,0 +1,12 @@
+# Default ignored files
+.idea/
+Dataset/
+venv/
+_pycache_/
+test.py
+
+RCNN/.idea/
+RCNN/data/
+RCNN/models/
+
+YOLO/
